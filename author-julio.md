@@ -1,14 +1,14 @@
 ---
 layout: author
 title: Author
-permalink: author/dan/
+permalink: author/julio/
 feature_image: feature-plantpot
 author_avatar: dan
-author_name: Dan Robberts
-title: Dan Robberts
+author_name: Julio Herrera
+title: Julio Herrera
 ---
 
-# Dan Robberts
+# Julio Herrera
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
 
