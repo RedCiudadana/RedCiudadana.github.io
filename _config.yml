@@ -8,12 +8,11 @@ url: "http://www.redciudadana.org/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
-  Home : ['Home', '/', 'fa-home']
-  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
-  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
-  Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
+  Home : ['Inicio', '/', 'fa-home']
+  About : ['Acerca', '/about', 'fa-anchor']
+  About : ['Red Ciudadana', 'http://www.redciudadana.org/', 'fa-user']
+  Author : ['Author', '/author/julio', 'fa-user']
+  Contact : ['Contacto', '/contact', 'fa-plane']
 single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
