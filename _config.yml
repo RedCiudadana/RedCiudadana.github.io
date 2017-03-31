@@ -1,11 +1,10 @@
 # Site settings
-title: Writer Theme
-email: help@writer-theme.com
+title: Blog Red Ciudadana
+email: info@redciudadana.org
 description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+ Somos una organización sin fines de lucro, creada con la misión de incentivar la participación y auditoría ciudadana.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://www.redciudadana.org/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:

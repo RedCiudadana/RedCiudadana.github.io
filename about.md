@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Red Ciudadana
 permalink: /about/
 feature_image: feature-book
 ---
